@@ -1,3 +1,5 @@
+![Alby Raju — Stay curious. Build thoughtfully.](assets/banner-programming.png)
+
 # Hi, I'm Alby Raju
 
 **Curious about systems. Thoughtful about software.**
