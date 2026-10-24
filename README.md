@@ -1,4 +1,4 @@
-![Alby Raju — Stay curious. Build thoughtfully.](assets/banner-programming.png)
+![A programming loop: learn, build, repeat.](assets/banner-code.png)
 
 # Hi, I'm Alby Raju
 
